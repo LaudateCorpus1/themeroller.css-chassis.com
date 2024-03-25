@@ -22,7 +22,7 @@
 		"url": "https://github.com/jquery/themeroller.css-chassis.com/issues"
 	},
 	"dependencies": {
-		"express": "4.13.0"
+		"express": "4.19.2"
 	},
 	"devDependencies": {
 		"grunt": "0.4.5",
